@@ -1,0 +1,3 @@
+github "SwiftyJSON/SwiftyJSON" ~> 4.0
+github "PureLayout/PureLayout"
+github "realm/realm-cocoa"
